@@ -322,4 +322,3 @@ The `sellCoins` method is the opposite of the `buyCoins` method.
 
 If you are not able to finish the last tasks on time, don't worry.
 Developing smart contracts is tough. 😉
-You can take a look at the solution [here](TODO).
