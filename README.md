@@ -5,6 +5,9 @@ smart contracts can be deployed and used on the Hedera hashgraph.
 
 <img width="1940" alt="readme-header" src="https://user-images.githubusercontent.com/9443847/233074005-5c4b2e38-e93a-4238-a5ca-3fe3d21bffb9.png">
 
+The tutorial was part of a workshop at [JavaLand 2023](https://www.javaland.eu) by [Michael Heinrichs](https://github.com/netopyr) and [Hendrik Ebbers](https://github.com/hendrikebbers). The slides of the workshop can be found [here](https://github.com/OpenElements/javacoin/files/11273166/Javaland-Coin-Workshop.pdf).
+
+
 ## Prerequisites
 
 The tutorial is based on [Java 17](https://adoptium.net/marketplace/?version=17). No additional tools are needed to
