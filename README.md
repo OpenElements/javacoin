@@ -3,7 +3,7 @@
 This project is a tutorial for the [Hedera hashgraph](https://hedera.com) and Java. The tutorials gives an overview how
 smart contracts can be deployed and used on the Hedera hashgraph.
 
-![javacoin](https://user-images.githubusercontent.com/9443847/233070482-b52beacd-586f-4800-a048-c7727072075f.png)
+<img width="1940" alt="readme-header" src="https://user-images.githubusercontent.com/9443847/233074005-5c4b2e38-e93a-4238-a5ca-3fe3d21bffb9.png">
 
 ## Prerequisites
 
