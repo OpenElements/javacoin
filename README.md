@@ -47,6 +47,8 @@ Hedera provides 3 different Networks: The Mainnet, the Testnet and the Previewne
   previewnet is a fully functional Hedera network, with all the same features as the mainnet.The Hedera previewnet is
   designed to offer developers in the Hedera community early exposure to features coming down the pipe. It’s not always
   stable and accounts / data are likely to be lost when the network codebase is upgraded.
+  
+<img width="1940" alt="instanzen" src="https://user-images.githubusercontent.com/9443847/233072507-cfe310d3-8587-4ca1-b165-b3639a7573a7.png">
 
 In the tutorial we will use the **Testnet**. To use the testnet you need to create an account on
 the [Hedera portal](https://portal.hedera.com). A step by step guide can be
