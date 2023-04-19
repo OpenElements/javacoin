@@ -3,6 +3,8 @@
 This project is a tutorial for the [Hedera hashgraph](https://hedera.com) and Java. The tutorials gives an overview how
 smart contracts can be deployed and used on the Hedera hashgraph.
 
+![javacoin](https://user-images.githubusercontent.com/9443847/233070482-b52beacd-586f-4800-a048-c7727072075f.png)
+
 ## Prerequisites
 
 The tutorial is based on [Java 17](https://adoptium.net/marketplace/?version=17). No additional tools are needed to
